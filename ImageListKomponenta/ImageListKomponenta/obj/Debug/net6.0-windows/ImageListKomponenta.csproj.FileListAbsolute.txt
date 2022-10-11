@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\ImageListKomponenta\ImageListKomponenta\bin\Debug\net6.0-windows\ImageListKomponenta.exe
+C:\Users\HP\source\repos\ImageListKomponenta\ImageListKomponenta\bin\Debug\net6.0-windows\ImageListKomponenta.deps.json
+C:\Users\HP\source\repos\ImageListKomponenta\ImageListKomponenta\bin\Debug\net6.0-windows\ImageListKomponenta.runtimeconfig.json
+C:\Users\HP\source\repos\ImageListKomponenta\ImageListKomponenta\bin\Debug\net6.0-windows\ImageListKomponenta.dll
+C:\Users\HP\source\repos\ImageListKomponenta\ImageListKomponenta\bin\Debug\net6.0-windows\ImageListKomponenta.pdb
+C:\Users\HP\source\repos\ImageListKomponenta\ImageListKomponenta\obj\Debug\net6.0-windows\ImageListKomponenta.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ImageListKomponenta\ImageListKomponenta\obj\Debug\net6.0-windows\ImageListKomponenta.Form1.resources
+C:\Users\HP\source\repos\ImageListKomponenta\ImageListKomponenta\obj\Debug\net6.0-windows\ImageListKomponenta.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ImageListKomponenta\ImageListKomponenta\obj\Debug\net6.0-windows\ImageListKomponenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ImageListKomponenta\ImageListKomponenta\obj\Debug\net6.0-windows\ImageListKomponenta.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ImageListKomponenta\ImageListKomponenta\obj\Debug\net6.0-windows\ImageListKomponenta.AssemblyInfo.cs
+C:\Users\HP\source\repos\ImageListKomponenta\ImageListKomponenta\obj\Debug\net6.0-windows\ImageListKomponenta.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ImageListKomponenta\ImageListKomponenta\obj\Debug\net6.0-windows\ImageListKomponenta.dll
+C:\Users\HP\source\repos\ImageListKomponenta\ImageListKomponenta\obj\Debug\net6.0-windows\refint\ImageListKomponenta.dll
+C:\Users\HP\source\repos\ImageListKomponenta\ImageListKomponenta\obj\Debug\net6.0-windows\ImageListKomponenta.pdb
+C:\Users\HP\source\repos\ImageListKomponenta\ImageListKomponenta\obj\Debug\net6.0-windows\ImageListKomponenta.genruntimeconfig.cache
+C:\Users\HP\source\repos\ImageListKomponenta\ImageListKomponenta\obj\Debug\net6.0-windows\ref\ImageListKomponenta.dll
